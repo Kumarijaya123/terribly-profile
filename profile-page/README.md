@@ -10,4 +10,8 @@ Currently, two official plugins are available:
 - 
 I made a terribly profile page , here the screen shot is provided
 i used the @media for proper render on any mobile screen or on laptop
+Here is my hosted netlify app link 👇
+
+https://655a69a12802f371dd0d6718--transcendent-ganache-54fcc3.netlify.app/
+
 ![Profile](https://github.com/Kumarijaya123/terribly-profile/assets/81750694/20be0e44-38a1-4b59-8514-f9a1f5112f45)
