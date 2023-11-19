@@ -1,0 +1,31 @@
+:root {
+
+  background-color: #242424;
+
+}
+
+
+@media(max-aspect-ratio: 7/10){
+  .container{
+    display: flex !important;
+  }
+
+  .text-2{
+    letter-spacing: 0.1vw !important;
+  }
+  .shareIcon1{
+    display: flex !important;
+    margin-left: 80vw !important;
+    margin-top: -4.5vw !important;
+  }
+  .shareIcon2{
+    display: flex !important;
+    margin-left: 80vw !important;
+    margin-top: -4.5vw !important;
+  }
+  .shareIcon3{
+    display: flex !important;
+    margin-left: 80vw !important;
+    margin-top: -4.5vw !important;
+  }
+}
